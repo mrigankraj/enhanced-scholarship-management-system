@@ -22,12 +22,8 @@ A Scholarship Portal, where
 
 @ Project Structure : 
 
-enhanced-scholarship-management-system/
-│
-├── backend/
-├── frontend/
-├── .git/
-└── README.md
+enhanced-scholarship-management-system  --- backend --- frontend --- .git(main) --- README.md 
+
 
 
 
