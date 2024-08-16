@@ -31,6 +31,23 @@ enhanced-scholarship-management-system  --- backend --- frontend --- .git(main) 
 
 
 
+@ Features : 
+
+System designed for four categories of Users
+
+1.) Student
+
+2.) HOD's (Head of Departments)
+
+3.) Principle
+
+4.) Finance Head 
+
+
+Different Dashboard for Student and Staffs.
+Students account can be created by anyone.
+Staff can be created by Admin only.
+
  @ Requirements : 
 
 Backend: Node.js with Express, MongoDB for data storage, php and JWT for authentication.
