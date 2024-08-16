@@ -28,7 +28,7 @@ Frontend: React with routing for different pages and Axios for HTTP requests.
 
 
 
-@ Set-up on your local machine
+@ Set-up on your local machine : 
 
 git clone https://github.com/mrigankraj/enhanced-scholarship-management-system.git
 
