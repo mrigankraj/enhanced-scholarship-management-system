@@ -14,7 +14,11 @@ A Scholarship Portal, where
 3.) Admin Sanctions the Scholarship to the applications verified by college
 
 
-@ Schemetic Representation : 
+@ Schemetic Representation(Basic Layout(can be changed))  :
+
+
+![image](https://github.com/user-attachments/assets/87490b4e-5f13-4a3d-a73a-832042ab02e5)
+
 
 
 
