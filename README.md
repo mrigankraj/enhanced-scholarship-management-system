@@ -18,6 +18,19 @@ A Scholarship Portal, where
 
 
 
+
+
+@ Project Structure : 
+
+enhanced-scholarship-management-system/
+│
+├── backend/
+├── frontend/
+├── .git/
+└── README.md
+
+
+
  @ Requirements : 
 
 Backend: Node.js with Express, MongoDB for data storage, php and JWT for authentication.
