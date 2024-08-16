@@ -17,7 +17,8 @@ A Scholarship Portal, where
 @ Schemetic Representation(Basic Layout(can be changed))  :
 
 
-![image](https://github.com/user-attachments/assets/87490b4e-5f13-4a3d-a73a-832042ab02e5)
+![Screenshot (493)](https://github.com/user-attachments/assets/ad0daf1b-1316-4458-b13b-c7f2e2b226a5)
+
 
 
 
