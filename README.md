@@ -67,3 +67,15 @@ cd enhanced-scholarship-management-system
 
 
 
+
+
+@ Basic Reference Layout :  
+
+
+![image](https://github.com/user-attachments/assets/d7c75bf4-32fa-4b78-9eb0-f6be80a33ccd)
+
+
+
+![image](https://github.com/user-attachments/assets/c1a241c1-d5eb-45da-8a3d-6f1170ffb8e6)
+
+
